@@ -1,0 +1,141 @@
+<mathml>
+    <mrow>
+        <mfrac>
+            <mrow fontsize="12">
+                <msubsup>
+                    <mo>&int;</mo>
+                    <mn>2</mn>
+                    <mn>56</mn>
+                </msubsup>
+                <msup>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                </msup>
+                <mtext fontstyle='italic'>dx</mtext>
+                <mo>+</mo>
+                <msubsup>
+                    <mo>&Int;</mo>
+                    <mn>2</mn>
+                    <mn>56</mn>
+                </msubsup>
+                <msup>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                </msup>
+                <mtext fontstyle='italic'>dx</mtext>
+                <mo>+</mo>
+                <msubsup>
+                    <mo>&tint;</mo>
+                    <mn>2</mn>
+                    <mn>56</mn>
+                </msubsup>
+                <msup>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                </msup>
+                <mtext fontstyle='italic'>dx</mtext>
+                <mo>+</mo>
+                <msubsup>
+                    <mo>&qint;</mo>
+                    <mn>2</mn>
+                    <mn>56</mn>
+                </msubsup>
+                <msup>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                </msup>
+                <mtext fontstyle='italic'>dx</mtext>
+                <mo>+</mo>
+                <msubsup>
+                    <mo>&oint;</mo>
+                    <mn>2</mn>
+                    <mn>56</mn>
+                </msubsup>
+                <msup>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                </msup>
+                <mtext fontstyle='italic'>dx</mtext>
+                <mo>+</mo>
+                <msubsup>
+                    <mo>&Conint;</mo>
+                    <mn>2</mn>
+                    <mn>56</mn>
+                </msubsup>
+                <msup>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                </msup>
+                <mtext fontstyle='italic'>dx</mtext>
+                <mo>+</mo>
+                <msubsup>
+                    <mo>&Cconint;</mo>
+                    <mn>2</mn>
+                    <mn>56</mn>
+                </msubsup>
+                <msup>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                </msup>
+                <mtext fontstyle='italic'>dx</mtext>
+            </mrow>
+            <mrow fontsize="12">
+                <msubsup>
+                    <mo>&cwconint;</mo>
+                    <mn>2</mn>
+                    <mn>56</mn>
+                </msubsup>
+                <msup>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                </msup>
+                <mtext fontstyle='italic'>dx</mtext>
+                <mo>+</mo>
+                <msubsup>
+                    <mo>&awconint;</mo>
+                    <mn>2</mn>
+                    <mn>56</mn>
+                </msubsup>
+                <msup>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                </msup>
+                <mtext fontstyle='italic'>dx</mtext>
+                <mo>+</mo>
+                <msubsup>
+                    <mo>&awint;</mo>
+                    <mn>2</mn>
+                    <mn>56</mn>
+                </msubsup>
+                <msup>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                </msup>
+                <mtext fontstyle='italic'>dx</mtext>
+                <mo>+</mo>
+                <msubsup>
+                    <mo>&cwint;</mo>
+                    <mn>2</mn>
+                    <mn>56</mn>
+                </msubsup>
+                <msup>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                </msup>
+                <mtext fontstyle='italic'>dx</mtext>
+                <mo>+</mo>
+                <msubsup>
+                    <mo>&fpartint;</mo>
+                    <mn>2</mn>
+                    <mn>56</mn>
+                </msubsup>
+                <msup>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                </msup>
+                <mtext fontstyle='italic'>dx</mtext>
+                <mo>+</mo>
+            </mrow>
+        </mfrac>
+    </mrow>
+</mathml>

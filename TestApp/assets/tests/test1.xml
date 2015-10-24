@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mathml>
+   <mrow>
+      <mrow>
+         <msup>
+            <mn>2</mn>
+            <mrow>
+               <msup>
+                  <mi>x</mi>
+                  <mn>2</mn>
+               </msup>
+               <mo>+</mo>
+               <mrow>
+                  <mn>4</mn>
+                  <mi>x</mi>
+               </mrow>
+               <mo>+</mo>
+               <mn>4</mn>
+            </mrow>
+         </msup>
+         <mo>+</mo>
+         <mrow>
+            <mn>4</mn>
+            <mi>x</mi>
+         </mrow>
+         <mo>+</mo>
+         <mn>45</mn>
+      </mrow>
+      <mo>=</mo>
+      <mn>0</mn>
+   </mrow>
+</mathml>

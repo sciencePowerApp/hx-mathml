@@ -1,0 +1,41 @@
+<mathml>
+    <mrow>
+        <msqrt>
+            <mrow>
+                <msup>
+                    <mn>2</mn>
+                    <mrow>
+                        <msup>
+                            <mi>x</mi>
+                            <mn>2</mn>
+                        </msup>
+                        <mo>+</mo>
+                        <mrow>
+                            <mn>4</mn>
+                            <mi>x</mi>
+                        </mrow>
+                        <mo>+</mo>
+                        <mn>4</mn>
+                    </mrow>
+                </msup>
+                <mo>+</mo>
+                <mrow>
+                    <mn>4</mn>
+                    <mi>x</mi>
+                </mrow>
+                <mo>+</mo>
+                <mn>45</mn>
+            </mrow>
+        </msqrt>
+        <mo>+</mo>
+        <mroot linethickness="3">
+            <mrow>
+                <msub>
+                    <mi>log</mi>
+                    <mn>2</mn>
+                </msub>
+            </mrow>
+            <mi>5</mi>
+        </mroot>
+    </mrow>
+</mathml>

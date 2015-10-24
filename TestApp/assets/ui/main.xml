@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vbox id="main" width="100%" height="100%" style="padding:10">
+	<hbox width="100%">
+		
+		<link text="hx-mathml on GitHub" url="https://github.com/sciencePowerApp/hx-mathml" />
+		<link text="(Original Source)" url="https://code.google.com/p/mathmlformula/source/browse/" />
+		<spacer width="100%" />
+		<listSelector id="example" text="test1" width="200" horizontalAlign="right" listSize="10">
+			<json>
+				[
+					{"text": "test1"},
+					{"text": "test2"},
+					{"text": "test3"},
+					{"text": "test4"},
+					{"text": "test5"},
+					{"text": "test6"},
+					{"text": "test7"},
+					{"text": "test8"},
+					{"text": "test9"},
+					{"text": "test10"},
+					{"text": "test11"},
+					{"text": "test12"},
+					{"text": "test13"},
+					{"text": "test14"},
+					{"text": "test15"}
+				]
+			</json>
+		</listSelector>
+	</hbox>
+	<code id="code" width="100%" height="100%" syntax="xml">
+		
+	</code>
+	<button id="update" text="Update" horizontalAlign="right" />
+	<box id="canvas" width="100%" height="150" style="background-color:#FFFFFF;">
+		
+	</box>	
+</vbox>

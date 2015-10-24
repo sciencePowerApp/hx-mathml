@@ -1,0 +1,27 @@
+<mathml>
+    <mrow>
+        <mrow>
+            <mfrac linethickness="2">
+                <mi> a + b +c </mi>
+                <mi> b </mi>
+            </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mfrac linethickness="2" bevelled="true">
+            <mrow>
+                <mi>3456+</mi>
+                <mfrac>
+                    <mi> a </mi>
+                    <mi> b + c + d</mi>
+                </mfrac>
+            </mrow>
+            <mrow>
+                <mn>3</mn>
+                <mfrac>
+                    <mi> c + d </mi>
+                    <mi> d </mi>
+                </mfrac>
+            </mrow>
+        </mfrac>
+    </mrow>
+</mathml>

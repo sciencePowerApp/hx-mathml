@@ -1,0 +1,85 @@
+<mathml>
+    <mrow>
+        <mfenced linethickness="3" color="#ff0000">
+            <mfrac linethickness="0" color="#006699">
+                <mi> a + b +c </mi>
+                <mi color="#ff0000"> b </mi>
+            </mfrac>
+        </mfenced>
+        <mfenced>
+            <mfrac linethickness="2">
+                <mrow>
+                    <mi color="#00ff00">3456</mi>
+                    <mo>+</mo>
+                    <mfrac>
+                        <mi> a </mi>
+                        <mfenced>
+                            <mi> b + c + d</mi>
+                        </mfenced>
+                    </mfrac>
+                </mrow>
+                <mrow>
+                    <mn>3</mn>
+                    <mfrac color="#ffff00">
+                        <mi> c + d </mi>
+                        <mi color="#ff0000"> d </mi>
+                    </mfrac>
+                </mrow>
+            </mfrac>
+        </mfenced>
+        <mo> + </mo>
+        <mfrac>
+            <mfenced open='[' close=']'>
+                <mfrac>
+                    <mi>a</mi>
+                    <mi>b</mi>
+                </mfrac>
+            </mfenced>
+            <mfenced open='{' close='}'>
+                <mfrac>
+                    <mi>a</mi>
+                    <mi>b</mi>
+                </mfrac>
+            </mfenced>
+        </mfrac>
+        <mo> + </mo>
+        <mfrac>
+            <mfenced open='|' close='|'>
+                <mfrac>
+                    <mi>a</mi>
+                    <mi>b</mi>
+                </mfrac>
+            </mfenced>
+            <mfenced open='&lceil;' close='&rceil;'>
+                <mfrac>
+                    <mi>a</mi>
+                    <mi>b</mi>
+                </mfrac>
+            </mfenced>
+        </mfrac>
+        <mo> + </mo>
+        <mfrac>
+            <mfenced open='&lfloor;' close='&rfloor;'>
+                <mfrac>
+                    <mi>a</mi>
+                    <mi>b</mi>
+                </mfrac>
+            </mfenced>
+            <mrow>
+                <mfenced open='&langle;' close='&rangle;'>
+                    <mfrac>
+                        <mi>a</mi>
+                        <mi>b</mi>
+                    </mfrac>
+                </mfenced>
+                <mo> + </mo>
+                <mfenced open='&Verbar;' close='&Verbar;'>
+                    <mfrac>
+                        <mi>a</mi>
+                        <mi>b</mi>
+                    </mfrac>
+                </mfenced>
+            </mrow>
+        </mfrac>
+    </mrow>
+</mathml>

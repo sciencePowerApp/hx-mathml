@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mathml>
+   <mrow>
+      <mrow>
+         <mfrac color="#006699">
+            <mi fontweight="bold">a + b + c</mi>
+            <mi color="#ff0000">b</mi>
+         </mfrac>
+      </mrow>
+      <mo>+</mo>
+      <mfrac fontstyle="italic">
+         <mrow>
+            <mi color="#00ff00">3456</mi>
+            <mo>+</mo>
+            <mfrac>
+               <mi>a</mi>
+               <mi fontsize="8">b + c + d</mi>
+            </mfrac>
+         </mrow>
+         <mrow>
+            <mn>3</mn>
+            <mfrac color="#ff00ff">
+               <mi>c + d</mi>
+               <mi color="#ff0000">d</mi>
+            </mfrac>
+         </mrow>
+      </mfrac>
+   </mrow>
+</mathml>
