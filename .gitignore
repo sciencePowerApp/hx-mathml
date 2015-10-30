@@ -164,3 +164,4 @@ pip-log.txt
 
 
 *.backup
+!7za.exe
