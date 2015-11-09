@@ -17,12 +17,11 @@
   <classpaths>
     <class path="C:\Servers\Haxe\haxe\lib\haxeui-rich-text\0,1,2" />
     <class path="C:\Servers\Haxe\haxe\lib\actuate\1,8,6" />
-    <class path="C:\Servers\Haxe\haxe\lib\haxeui\1,7,18" />
-    <class path="C:\Servers\Haxe\haxe\lib\hscript\2,0,4" />
-    <class path="C:\Servers\Haxe\haxe\lib\lime\2,6,8" />
-    <class path="C:\Servers\Haxe\haxe\lib\openfl\3,3,8" />
+    <class path="Z:\GitHub\haxeui" />
+    <class path="C:\Servers\Haxe\haxe\lib\hscript\2,0,5" />
+    <class path="C:\Servers\Haxe\haxe\lib\lime\2,7,0" />
     <class path="C:\Servers\Haxe\haxe\lib\hx-mathml\1,0,0" />
-    <class path="C:\Servers\Haxe\haxe\lib\openfl\3,3,9" />
+    <class path="C:\Servers\Haxe\haxe\lib\openfl\3,4,0" />
     <class path="src" />
     <class path="assets" />
     <class path="C:\Servers\Haxe\haxe\lib\haxeui-rich-text\0,1,2\assets" />
@@ -30,7 +29,7 @@
   </classpaths>
   <!-- Build options -->
   <build>
-    <option directives="haxeui-rich-text=0.1.2&#xA;actuate=1.8.6&#xA;haxeui=1.7.18&#xA;hscript=2.0.4&#xA;lime=2.6.8&#xA;openfl=3.3.8&#xA;hx-mathml=1.0.0&#xA;openfl=3.3.9&#xA;openfl-next&#xA;tools=2.6.8&#xA;no-compilation&#xA;openfl-flash&#xA;web&#xA;display" />
+    <option directives="haxeui-rich-text=0.1.2&#xA;actuate=1.8.6&#xA;haxeui=1.7.20&#xA;hscript=2.0.5&#xA;lime=2.7.0&#xA;hx-mathml=1.0.0&#xA;openfl=3.4.0&#xA;openfl-next&#xA;tools=2.7.0&#xA;no-compilation&#xA;openfl-flash&#xA;web&#xA;display" />
     <option flashStrict="False" />
     <option noInlineOnDebug="False" />
     <option mainClass="ApplicationMain" />
